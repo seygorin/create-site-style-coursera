@@ -44,3 +44,23 @@
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+.carousel {
+    background: #512Da8
+}
+
+.carousel-item {
+    height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.carousel-caption {
+    padding: 50px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
