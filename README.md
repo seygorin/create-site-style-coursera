@@ -1,1 +1,1 @@
-https://coursera.org/share/61bd6902e3ad419ef39b603b8154a78e
+![](https://github.com/seygorin/create-site-style-coursera/blob/main/certificate/Coursera%20ZTVSWSNDUXX2.svg)
